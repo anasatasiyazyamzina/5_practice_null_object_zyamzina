@@ -1,0 +1,11 @@
+C:\Users\Анастасия\source\repos\Laab5\Laab5\obj\Debug\netcoreapp3.0\Laab5.csprojAssemblyReference.cache
+C:\Users\Анастасия\source\repos\Laab5\Laab5\obj\Debug\netcoreapp3.0\Laab5.AssemblyInfoInputs.cache
+C:\Users\Анастасия\source\repos\Laab5\Laab5\obj\Debug\netcoreapp3.0\Laab5.AssemblyInfo.cs
+C:\Users\Анастасия\source\repos\Laab5\Laab5\bin\Debug\netcoreapp3.0\Laab5.exe
+C:\Users\Анастасия\source\repos\Laab5\Laab5\bin\Debug\netcoreapp3.0\Laab5.deps.json
+C:\Users\Анастасия\source\repos\Laab5\Laab5\bin\Debug\netcoreapp3.0\Laab5.runtimeconfig.json
+C:\Users\Анастасия\source\repos\Laab5\Laab5\bin\Debug\netcoreapp3.0\Laab5.runtimeconfig.dev.json
+C:\Users\Анастасия\source\repos\Laab5\Laab5\bin\Debug\netcoreapp3.0\Laab5.dll
+C:\Users\Анастасия\source\repos\Laab5\Laab5\bin\Debug\netcoreapp3.0\Laab5.pdb
+C:\Users\Анастасия\source\repos\Laab5\Laab5\obj\Debug\netcoreapp3.0\Laab5.dll
+C:\Users\Анастасия\source\repos\Laab5\Laab5\obj\Debug\netcoreapp3.0\Laab5.pdb
