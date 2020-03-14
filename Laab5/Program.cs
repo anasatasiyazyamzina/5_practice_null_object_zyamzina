@@ -30,7 +30,7 @@ class NullAnimal : IAnimal
 {
     public void MakeSound()
     {
-        // Целенапровленно не делает никаих действий.
+        // do nothing
     }
 }
 
